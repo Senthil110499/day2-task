@@ -24,7 +24,7 @@
 
 # **Document Object**
 
-  + he document object is a property of the window object that represents the DOM (document object model) of the current web page.
+  + The document object is a property of the window object that represents the DOM (document object model) of the current web page.
   + It represents any HTML document or web page that is loaded in the browser.
   + It is loaded inside the window.
   + It is the object of window property.
